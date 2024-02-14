@@ -1,7 +1,7 @@
-# db-course
+# db-course-sem1
 Databases course
 
-See [published HTML version](https://kuleuven-diepenbeek.github.io/db-course/).
+See [published HTML version](https://kuleuven-diepenbeek.github.io/db-course-sem1/).
 
 ## Code Examples
 
