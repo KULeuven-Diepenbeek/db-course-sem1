@@ -1,5 +1,6 @@
 ---
 title: 'Index'
+author: Wouter Groeneveld
 ---
 
 # <i class="fas fa-database"></i> Databases <i class="fas fa-database"></i>
